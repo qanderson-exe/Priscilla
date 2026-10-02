@@ -1,0 +1,7 @@
+langgraph
+langchain-core
+python-dotenv
+langchain-ollama
+faiss-gpu
+langchain-community
+langchain
